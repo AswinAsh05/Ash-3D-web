@@ -14,7 +14,7 @@
 
 ## 🚀 Demo
 
-🔗 [Live Demo](https://your-username.github.io/3d-rotate-image-site)  
+🔗 [Live Demo](https://aswinash05.github.io/Ash-3D-web/)  
 
 ---
 
